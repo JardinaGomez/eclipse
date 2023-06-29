@@ -92,7 +92,7 @@ class BankAccount {
 				System.out.println("Enter an amount to withdraw" );
 				System.out.println("------------------------------------------------------------------");
 				int amount2 = scanner.nextInt();
-				withdraw (amount2);
+				withdraw (amount2); 
 				
 				System.out.println("\n");
 				
